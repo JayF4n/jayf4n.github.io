@@ -1,0 +1,11 @@
+auto: true
+
+markdown: rdiscount
+pygments: true
+paginate: 8
+permalink: /:title
+
+title: JayF4n的BLOG
+url: http://jayf4n.github.io
+feed: /atom.xml
+author_info: <a href="http://jayf4n.github.io/">JayF4n</a>
