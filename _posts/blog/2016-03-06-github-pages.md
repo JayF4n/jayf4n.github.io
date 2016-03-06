@@ -93,5 +93,5 @@ description: 折腾一下Github pages。
 ##Git与Markdown教程
 
 * **Git教程推荐[史上最浅显易懂的Git教程！_廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)**
-* **Markdown请看[Markdown 语法说明 (简体中文版)](http://www.appinn.com/markdown/)**
+* **Markdown请看[Markdown_维基百科](https://zh.m.wikipedia.org/wiki/Markdown)**
 
