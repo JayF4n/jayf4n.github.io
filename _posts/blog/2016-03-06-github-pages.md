@@ -5,7 +5,6 @@ category: blog
 description: 折腾一下Github pages。
 ---
 
-#Github Pages 建立个人博客总结
 
 > **参考[Beiyun](http://beiyuu.com/)的文章[使用Github Pages建独立博客](http://beiyuu.com/github-pages/)。**
 
