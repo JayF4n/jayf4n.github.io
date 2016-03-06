@@ -7,7 +7,7 @@ description: 折腾一下Github pages。
 
 #Github Pages 建立个人博客总结
 
-> 参考[Beiyun](http://beiyuu.com/)的文章[使用Github Pages建独立博客](http://beiyuu.com/github-pages/)。
+> **参考[Beiyun](http://beiyuu.com/)的文章[使用Github Pages建独立博客](http://beiyuu.com/github-pages/)。**
 
 ##配置Github
 
@@ -30,7 +30,7 @@ description: 折腾一下Github pages。
 
 进入项目目录
 
-    cd rusername.github.io                 #进入项目目录
+    cd username.github.io                 #进入项目目录
 
 在本地的项目目录里添加index.html文件
 
@@ -48,13 +48,14 @@ description: 折腾一下Github pages。
 
 2. 删除之前的index.html文件，在Git shell里打开
 
-    `git rm index.html git commit -m "delete first-pages`
+    `git rm index.html`
+    `git commit -m "delete first-pages"`
 
 将除了**.git**文件夹的所有内容复制到自己的user.github.io文件夹内。
 
 3. 修改模板，将里面关于社交资料的内容改为自己的。删除images和_posts文件夹里的内容,原作者用的是本地图片在Git里上传，我自己在Markdwon链接的是[七牛云存储](https://portal.qiniu.com/)的图床。
 
-4. 加入自己的文章，md文件命名格式为year-month-day-title.md，例如2016-03-06-github-pages.md。放到_posts文件夹里对应的分类中
+4. 加入自己的文章，md文件命名格式为year-month-day-title.md，例如2016-03-06-github-pages.md，放到_posts文件夹里对应的分类中。
 
 > **YAML Front Matter和模板变量**
 
@@ -83,4 +84,16 @@ description: 折腾一下Github pages。
 
 完成之后可以在浏览器里看下是否成功
 
+主页
+![](http://7xrabv.com1.z0.glb.clouddn.com/index.jpg)
+
+文章
+![](http://7xrabv.com1.z0.glb.clouddn.com/blog.jpg)
+
+> 至此利用Github pages和Jekyll模板搭建个人博客已经完成了，接下来就是不断学习与完善了;_)
+
+##Git与Markdown教程
+* **Git教程推荐[史上最浅显易懂的Git教程！_廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)**
+
+* **Markdown请看[Markdown 语法说明 (简体中文版)](http://www.appinn.com/markdown/)**
 
