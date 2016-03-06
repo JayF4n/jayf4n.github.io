@@ -28,13 +28,13 @@ description: 折腾一下Github pages。
 
 进入项目目录
 
-    cd username.github.io                  "进入项目目录"
+    cd username.github.io                 #进入项目目录
 
 在本地的项目目录里添加index.html文件
 
-    git add index.html                     "将index.html文件添加到暂存区"
-    git commit -a -m "First pages commit"  "将暂存区的修改提交到当前分支"
-    git push                               "将修改同步到Github"
+    git add index.html                     #将index.html文件添加到暂存区
+    git commit -a -m "First pages commit"  #将暂存区的修改提交到当前分支
+    git push                               #将修改同步到Github
 可以打开`username.github.io`开下是否成功
 ![](http://7xrabv.com1.z0.glb.clouddn.com/first-commit.jpg)
 
@@ -75,10 +75,10 @@ description: 折腾一下Github pages。
 ![](http://7xrabv.com1.z0.glb.clouddn.com/gitpages.jpg)
 ##同步到Github pages
 
-    cd username.github.io                   "进入目录"
-    git add .                               "添加修改到暂存区"
-    git commit -m "add Beiyunn's theme"     "添加修改到当前分支"
-    git push                                "将修改同步到Github"
+    cd username.github.io                   #进入目录
+    git add .                               #添加修改到暂存区
+    git commit -m "add Beiyunn's theme"     #添加修改到当前分支
+    git push                                #将修改同步到Github
 
 完成之后可以在浏览器里看下是否成功
 
