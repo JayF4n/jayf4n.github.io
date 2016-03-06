@@ -91,7 +91,7 @@ description: 折腾一下Github pages。
 > 至此利用Github pages和Jekyll模板搭建个人博客已经完成了，接下来就是不断学习与完善了;_)
 
 ##Git与Markdown教程
-* **Git教程推荐[史上最浅显易懂的Git教程！_廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)**
 
+* **Git教程推荐[史上最浅显易懂的Git教程！_廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)**
 * **Markdown请看[Markdown 语法说明 (简体中文版)](http://www.appinn.com/markdown/)**
 
