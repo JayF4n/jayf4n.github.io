@@ -4,7 +4,9 @@ title: HTML学习笔记-6.HTML段落
 category: project
 description: HTML学习笔记_w3school
 ---
+
 ##HTML段落
+
 HTMl段落是通过`<p>`标签定义的。
 
     <p>what i got to do to make you love me </p>
@@ -13,6 +15,7 @@ HTMl段落是通过`<p>`标签定义的。
 > 浏览器会自动在段落的前后添加空行（`<p>`是块级元素）
 > 插入空行不要使用`<p></p>`，应该使用`<br />`
 > 不要忘记结束标签`</p>`
+
 
 ##段落内拆行
 
@@ -34,6 +37,8 @@ HTMl段落是通过`<p>`标签定义的。
 </html>
 
 > 我竟无言以对，看来梨花题叫作`<br />体`也行嘛。。
+
+
 ##小结
 
 * 换行尽量使用`<br />`
