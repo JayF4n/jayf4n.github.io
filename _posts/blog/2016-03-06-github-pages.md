@@ -73,6 +73,7 @@ description: 折腾一下Github pages。
 >还有其他需要的变量，可以参考[官方的文档](https://github.com/mojombo/jekyll/wiki/template-data)
 
 ![](http://7xrabv.com1.z0.glb.clouddn.com/gitpages.jpg)
+
 ## 同步到Github pages
 
     cd username.github.io                   #进入目录
