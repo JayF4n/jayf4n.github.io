@@ -7,7 +7,7 @@ description: 折腾一下Github pages。
 
 > **参考[Beiyun](http://beiyuu.com/)的文章[使用Github Pages建独立博客](http://beiyuu.com/github-pages/)。**
 
-##配置Github
+## 配置Github
 
 这里我直接使用了[GithubDesktop](https://desktop.github.com/)客户端，安装登录之后关于SSH Key的部分会自动完成，不过Git的帐号信息还是要设置一下：
 
@@ -17,7 +17,7 @@ description: 折腾一下Github pages。
 
 名字和邮箱替换成自己的，Github会用这些信息做相关权限的处理。
 
-##使用Github Pages 新建项目
+## 使用Github Pages 新建项目
 
 > 在这步我折腾了好久，建立项目上传之后，[jayf4n.github.io](jayf4n.github.io)一直显示404，最后发现是弄成了依附于项目的pages。
 
@@ -38,7 +38,7 @@ description: 折腾一下Github pages。
 可以打开`username.github.io`开下是否成功
 ![](http://7xrabv.com1.z0.glb.clouddn.com/first-commit.jpg)
 
-##套用Jekyll模板
+## 套用Jekyll模板
 
 > 这里我folk了[Beiyun](http://beiyuu.com/)的[模板](https://github.com/beiyuu/Github-Pages-Example)。
 
@@ -73,7 +73,7 @@ description: 折腾一下Github pages。
 >还有其他需要的变量，可以参考[官方的文档](https://github.com/mojombo/jekyll/wiki/template-data)
 
 ![](http://7xrabv.com1.z0.glb.clouddn.com/gitpages.jpg)
-##同步到Github pages
+## 同步到Github pages
 
     cd username.github.io                   #进入目录
     git add .                               #添加修改到暂存区
@@ -90,7 +90,7 @@ description: 折腾一下Github pages。
 
 > 至此利用Github pages和Jekyll模板搭建个人博客已经完成了，接下来就是不断学习与完善了;_)
 
-##Git与Markdown教程
+## Git与Markdown教程
 
 * **Git教程推荐[史上最浅显易懂的Git教程！_廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)**
 * **Markdown请看[Markdown_维基百科](https://zh.m.wikipedia.org/wiki/Markdown)**
