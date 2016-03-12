@@ -5,7 +5,7 @@ category: project
 description: HTML学习笔记_w3school
 ---
 
-## 文本格式化[^1]
+## 文本格式化
 
 
     <html>
@@ -123,7 +123,7 @@ description: HTML学习笔记_w3school
 
 
 
-## “计算机输出”标签[^2]
+## “计算机输出”标签
 
 
 
@@ -243,7 +243,7 @@ description: HTML学习笔记_w3school
 
 
 
-## 块引用[^3]
+## 块引用
 
 
 
@@ -314,7 +314,7 @@ description: HTML学习笔记_w3school
 
 
 
-[^1]：文本格式化标签
+文本格式化标签
 
 * `<b>`  : 定义粗体文字
 
@@ -338,7 +338,7 @@ description: HTML学习笔记_w3school
 
 
 
-[^2]：“计算机输出”标签
+“计算机输出”标签
 
 * `<code>` : 定义计算机代码
 
@@ -353,8 +353,7 @@ description: HTML学习笔记_w3school
 * `<pre>` : 定义预格式文本
 
 
-
-[^3]: 引用、引用和术语定义
+引用、引用和术语定义
 
 * `<abbr>` : 定义缩写
 
