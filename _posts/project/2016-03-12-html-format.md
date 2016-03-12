@@ -7,9 +7,10 @@ description: HTML学习笔记_w3school
 
 ## 文本格式化[^1]
 
+
     <html>
-        <body>
         <h1 align="center">米店</h4>
+        <body>
         <!--标题居中-->
         <small>窗外的人们 匆匆忙忙</small>
         <!--定义小号字体-->
@@ -38,9 +39,10 @@ description: HTML学习笔记_w3school
     </html>
 
 
+
 <html>
-        <body>
         <h1 align="center">米店</h4>
+        <body>
         <!--标题居中-->
         <small>窗外的人们 匆匆忙忙</small>
         <!--定义小号字体-->
@@ -70,7 +72,10 @@ description: HTML学习笔记_w3school
 
 
 
+
+
 ## 预格式文本`<pre>`
+
 
 
     <html>
@@ -94,6 +99,9 @@ description: HTML学习笔记_w3school
     </html>
 
 
+
+
+
 <html>
     <body>
         <pre>
@@ -111,7 +119,15 @@ description: HTML学习笔记_w3school
     </body>
 </html>
 
+
+
+
+
 ## “计算机输出”标签[^2]
+
+
+
+
 
     <html>
 
@@ -140,6 +156,9 @@ description: HTML学习笔记_w3school
         </body>
     </html>
 
+
+
+
 <html>
     <body>
         <code>Computer code</code>
@@ -156,7 +175,12 @@ description: HTML学习笔记_w3school
     </body>
 </html>
 
+
+
 ## 地址`<address>`
+
+
+
 
     <html>
      <body>
@@ -170,6 +194,9 @@ description: HTML学习笔记_w3school
      </body>
     </html>
 
+
+
+
 <html>
     <body>
         <address>
@@ -182,7 +209,11 @@ description: HTML学习笔记_w3school
     </body>
 </html>
 
+
+
 ## 文字方向`<bdo>`
+
+
 
     <html>
       <body>
@@ -196,6 +227,9 @@ description: HTML学习笔记_w3school
       </body>
     </html>
 
+
+
+
 <html>
     <body>
         <p>
@@ -207,7 +241,12 @@ description: HTML学习笔记_w3school
     </body>
 </html>
 
+
+
 ## 块引用[^3]
+
+
+
 
     <html>
         <body>
@@ -225,6 +264,9 @@ description: HTML学习笔记_w3school
     </html>
 
 
+
+
+
 <html>
     <body>
     这是长的引用：
@@ -240,7 +282,12 @@ description: HTML学习笔记_w3school
     </body>
 </html>
 
+
+
+
 ## 删除字和插入字
+
+
 
     <html>
       <body>
@@ -249,6 +296,8 @@ description: HTML学习笔记_w3school
         <p>一些老式的浏览器会把删除文本和下划线文本显示为普通文本。</p>
       </body>
     </html>
+
+
 
 <html>
     <body>
@@ -260,11 +309,12 @@ description: HTML学习笔记_w3school
 
 
 
+
 -------------------------
 
 
-[^1]：文本格式化标签
 
+[^1]：文本格式化标签
 
 * `<b>`  : 定义粗体文字
 
@@ -287,8 +337,8 @@ description: HTML学习笔记_w3school
 * `<del>` : 定义删除字
 
 
-[^2]：“计算机输出”标签
 
+[^2]：“计算机输出”标签
 
 * `<code>` : 定义计算机代码
 
@@ -301,6 +351,7 @@ description: HTML学习笔记_w3school
 * `<var>` : 定义变量
 
 * `<pre>` : 定义预格式文本
+
 
 
 [^3]: 引用、引用和术语定义
