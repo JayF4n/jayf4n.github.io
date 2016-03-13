@@ -99,7 +99,7 @@ description: HTML学习笔记_w3school
         <!--定义打字机代码-->
         <br />
         <samp>Sample text</samp>
-        <!--定义计算机样本-->
+        <!--定义计算机代码样本-->
         <br />
         <var>Computer variable</var>
         <!--定义变量-->
