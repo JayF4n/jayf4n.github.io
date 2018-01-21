@@ -36,7 +36,7 @@ Hi JayF4n! You've successfully authenticated, but GitHub does not provide shell 
 
 ## VScode的目录与Github的项目进行连接
 
-第一次使用VScode需要设置Git的路径，在文件-首选项-设置里添加：
+第一次使用[VScode](https://code.visualstudio.com/)需要设置Git的路径，在文件-首选项-设置里添加：
 ```
  "git.path": "E:/Programs/Git/bin/git.exe"  //这里自行替换自己的Git路径
 ```
